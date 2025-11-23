@@ -10,6 +10,7 @@ public class SelectionSort {
             int min = i;
             for(int j = i + 1; j < arr.length; j++){
 //                arr[min] =
+                System.out.println(arr[i]);
             }
         }
     }
