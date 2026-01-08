@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class Practise {
     public static void main(String[] args) {
 
+        int a = 7;
+        int res = a/10;
+        System.out.println("mmmm"+ res);
+
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();

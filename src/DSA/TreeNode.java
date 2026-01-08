@@ -37,4 +37,16 @@ public class TreeNode {
         return false;
     }
 
+    /**
+     * Finds the minimum node in a (non-null) subtree.
+     * Minimum is the leftmost node.
+     */
+//    private Node<T> findMin(Node<T> node) {
+//        Node<T> curr = node;
+//        while (curr.left != null) {
+//            curr = curr.left;
+//        }
+//        return curr;
+//    }
+
 }
